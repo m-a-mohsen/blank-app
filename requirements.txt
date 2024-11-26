@@ -1,1 +1,6 @@
 streamlit
+pydicom
+numpy
+requests
+pillow
+matplotlib
